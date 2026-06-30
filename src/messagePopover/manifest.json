@@ -1,0 +1,12 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "messagePopover",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Message Popover API",
+    "tagline": "API to add buttons to message popovers (direct port of the Vencord core plugin)",
+    "authors": ["KingFish", "Ven", "Nuckyz"],
+    "source": "https://github.com/goatgirlclover/moonlight-extensions"
+  }
+}

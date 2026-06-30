@@ -1,0 +1,12 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "noSystemBadge",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "No System Badge",
+    "tagline": "Disables the taskbar and system tray unread count badge.",
+    "authors": ["rushii"],
+    "source": "https://github.com/goatgirlclover/moonlight-extensions"
+  }
+}
